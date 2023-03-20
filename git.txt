@@ -1,3 +1,5 @@
 instrucciones para github
 
 https://github.com/Irlanda3/coursera-react.git
+
+le puse del lado iz en explorer clone repo
