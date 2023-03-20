@@ -1,0 +1,3 @@
+instrucciones para github
+
+https://github.com/Irlanda3/coursera-react.git
